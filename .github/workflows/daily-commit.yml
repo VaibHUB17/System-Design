@@ -18,6 +18,7 @@ jobs:
         with:
           ref: master
           fetch-depth: 0
+          token: ${{ secrets.AUTO_COMMIT_TOKEN }}
 
       - name: Configure Git
         run: |
