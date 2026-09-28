@@ -26,6 +26,8 @@ jobs:
           git config user.email "vaibhavshivhare1709@gmail.com"
 
       - name: Update log, commit and push
+        env:
+          TZ: 'Asia/Kolkata'
         run: |
           # Options A & C: Curated pool of realistic commit messages + system design tips & quotes
           MESSAGES=(
@@ -66,7 +68,7 @@ jobs:
           CHOSEN_MSG="${MESSAGES[$RANDOM_INDEX]}"
 
           # Append entry to activity log
-          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S %Z")
           mkdir -p .github
           echo "[$TIMESTAMP] $CHOSEN_MSG" >> .github/activity.log
 
