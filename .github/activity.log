@@ -1,3 +1,4 @@
 # System Design Daily Activity & Knowledge Log
 This log is automatically updated daily by GitHub Actions with design insights, system design tips, and maintenance records.
 [2026-09-28 20:12:57 UTC] docs(patterns): revise behavioral and structural design pattern summaries
+[2026-09-28 20:14:28 UTC] docs(scalability): outline horizontal vs vertical scaling trade-offs
