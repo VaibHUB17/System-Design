@@ -9,3 +9,4 @@ This log is automatically updated daily by GitHub Actions with design insights, 
 [2026-10-03 00:44:31 IST] docs(concurrency): examine optimistic vs pessimistic locking approaches
 [2026-10-03 23:24:44 IST] docs(solid): clarify dependency inversion and interface segregation
 [2026-10-04 23:37:37 IST] docs(microservices): document api gateway and circuit breaker patterns
+[2026-10-06 02:58:08 IST] docs(scalability): outline horizontal vs vertical scaling trade-offs
