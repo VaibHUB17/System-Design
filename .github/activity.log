@@ -43,3 +43,4 @@ This log is automatically updated daily by GitHub Actions with design insights, 
 [2026-11-06 02:33:42 IST] style: clean up formatting across system design markdown docs
 [2026-11-07 01:55:36 IST] tip: Rate limiting algorithms: Token Bucket, Leaky Bucket, and Sliding Window
 [2026-11-08 00:13:16 IST] docs(scalability): outline horizontal vs vertical scaling trade-offs
+[2026-11-09 00:18:21 IST] tip: Consistent Hashing minimizes key remapping during server scaling
