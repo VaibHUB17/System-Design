@@ -46,3 +46,4 @@ This log is automatically updated daily by GitHub Actions with design insights, 
 [2026-11-09 00:18:21 IST] tip: Consistent Hashing minimizes key remapping during server scaling
 [2026-11-10 04:54:46 IST] tip: Rate limiting algorithms: Token Bucket, Leaky Bucket, and Sliding Window
 [2026-11-11 02:16:58 IST] tip: Rate limiting algorithms: Token Bucket, Leaky Bucket, and Sliding Window
+[2026-11-12 02:50:55 IST] tip: CAP theorem - balance consistency and availability under network partition
